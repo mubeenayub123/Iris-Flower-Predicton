@@ -1,1 +1,2 @@
-# Iris-Flower-Predicton
+# stockClosingPricePrediction-app
+Stock Closing Price Prediction app
